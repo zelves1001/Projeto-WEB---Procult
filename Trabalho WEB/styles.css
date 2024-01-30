@@ -1,0 +1,37 @@
+/* Adicione estilos personalizados aqui */
+
+body {
+    background-color: #fffdf6; /* Plano de fundo */
+  }
+  
+  .navbar {
+    background-color: #94bf46; /* Cor da barra de navegação */
+  }
+  
+  .navbar-dark .navbar-toggler-icon {
+    background-color: #f1965c; /* Ícone do botão de alternância na barra de navegação */
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #fff; /* Cor do texto na barra de navegação */
+  }
+  
+  .navbar-dark .navbar-nav .nav-item.active .nav-link {
+    color: #f1965c; /* Cor do texto ativo na barra de navegação */
+  }
+  
+  .container {
+    background-color: #fff; /* Cor de fundo do conteúdo principal */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #94bf46; /* Cor dos títulos das seções */
+  }
+  
+  p {
+    color: #333; /* Cor do texto principal */
+  }
+  
