@@ -1,37 +1,35 @@
-/* Adicione estilos personalizados aqui */
-
 body {
-    background-color: #fffdf6; /* Plano de fundo */
+    background-color: #fffdf6;
   }
   
   .navbar {
-    background-color: #94bf46; /* Cor da barra de navegação */
+    background-color: #94bf46;
   }
   
   .navbar-dark .navbar-toggler-icon {
-    background-color: #f1965c; /* Ícone do botão de alternância na barra de navegação */
+    background-color: #f1965c;
   }
   
   .navbar-dark .navbar-nav .nav-link {
-    color: #fff; /* Cor do texto na barra de navegação */
+    color: #fff; 
   }
   
   .navbar-dark .navbar-nav .nav-item.active .nav-link {
-    color: #f1965c; /* Cor do texto ativo na barra de navegação */
+    color: #f1965c; 
   }
   
   .container {
-    background-color: #fff; /* Cor de fundo do conteúdo principal */
+    background-color: #fff; 
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
   
   h2 {
-    color: #94bf46; /* Cor dos títulos das seções */
+    color: #94bf46; 
   }
   
   p {
-    color: #333; /* Cor do texto principal */
+    color: #333; 
   }
   
